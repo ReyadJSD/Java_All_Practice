@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05370d86-debd-4b85-9197-7346f0f61f2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAllPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/factorial/CalcFactorialIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/factorial/CalcFactorialRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeriesRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/oddEven/CheckOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/oddEven/CheckOddEven2ndWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/oddEven/OddEvenInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/CountPrimesInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/PrimeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/PrimesInARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/StorePrimesInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/exceptions/FileNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/CurrencyFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/DateTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/IntToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/StringToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/SubstringChallenge.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dSWJuOYdvFS70HwGTw12a0AtTR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.CalcFactorialIterative.executor": "Run",
+    "Application.CalcFactorialRecursive.executor": "Debug",
+    "Application.CheckOddEven.executor": "Run",
+    "Application.CheckOddEven2ndWay.executor": "Run",
+    "Application.CountPrimesInARange.executor": "Run",
+    "Application.CurrencyFormatter.executor": "Run",
+    "Application.DateTime.executor": "Run",
+    "Application.Factor.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FibonacciSeriesRecursive.executor": "Run",
+    "Application.FileNotFound.executor": "Run",
+    "Application.IntToString.executor": "Run",
+    "Application.PrimeCheck.executor": "Run",
+    "Application.PrimesInARange.executor": "Run",
+    "Application.StorePrimesInList.executor": "Run",
+    "Application.StringToken.executor": "Run",
+    "Application.SubstringChallenge.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/127214611/Core Java/JavaAllPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SubstringChallenge">
+    <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.CurrencyFormatter" />
+      <module name="JavaAllPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.DateTime" />
+      <module name="JavaAllPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.IntToString" />
+      <module name="JavaAllPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.StringToken" />
+      <module name="JavaAllPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.SubstringChallenge" />
+      <module name="JavaAllPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubstringChallenge" />
+        <item itemvalue="Application.StringToken" />
+        <item itemvalue="Application.CurrencyFormatter" />
+        <item itemvalue="Application.DateTime" />
+        <item itemvalue="Application.IntToString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05370d86-debd-4b85-9197-7346f0f61f2d" name="Changes" comment="" />
+      <created>1710001899855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710001899855</updated>
+      <workItem from="1710001901112" duration="2494000" />
+      <workItem from="1710078850195" duration="4065000" />
+      <workItem from="1710176287214" duration="7082000" />
+      <workItem from="1710356191848" duration="1388000" />
+      <workItem from="1710672045007" duration="2139000" />
+      <workItem from="1710698064714" duration="1948000" />
+      <workItem from="1710958409445" duration="2859000" />
+      <workItem from="1711037570090" duration="749000" />
+      <workItem from="1711039440274" duration="883000" />
+      <workItem from="1711049243335" duration="1409000" />
+      <workItem from="1711122516532" duration="315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/core_java/alzebra/factorial/CalcFactorialRecursive.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
