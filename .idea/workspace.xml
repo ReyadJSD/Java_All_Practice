@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05370d86-debd-4b85-9197-7346f0f61f2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAllPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/Factor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/factorial/CalcFactorialIterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/factorial/CalcFactorialRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeriesRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/oddEven/CheckOddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/oddEven/CheckOddEven2ndWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/oddEven/OddEvenInARange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/CountPrimesInARange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/PrimeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/PrimesInARange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/StorePrimesInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/exceptions/FileNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/CurrencyFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/DateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/IntToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/StringOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/StringToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/SubstringChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/CountPrimesInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/CountPrimesInARange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,9 +68,27 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SubstringChallenge">
+  <component name="RunManager" selected="Application.CountPrimesInARange">
+    <configuration name="CountPrimesInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.core_java.alzebra.prime.CountPrimesInARange" />
+      <module name="JavaAllPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.core_java.alzebra.prime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.CurrencyFormatter" />
       <module name="JavaAllPractice" />
@@ -108,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.DateTime" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.core_java.alzebra.fibonacci.FibonacciSeries" />
       <module name="JavaAllPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.IntToString" />
-      <module name="JavaAllPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="PATTERN" value="main.core_java.alzebra.fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountPrimesInARange" />
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.SubstringChallenge" />
         <item itemvalue="Application.StringToken" />
         <item itemvalue="Application.CurrencyFormatter" />
-        <item itemvalue="Application.DateTime" />
-        <item itemvalue="Application.IntToString" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +176,8 @@
       <workItem from="1711037570090" duration="749000" />
       <workItem from="1711039440274" duration="883000" />
       <workItem from="1711049243335" duration="1409000" />
-      <workItem from="1711122516532" duration="315000" />
+      <workItem from="1711122516532" duration="3522000" />
+      <workItem from="1711210743869" duration="2086000" />
     </task>
     <servers />
   </component>

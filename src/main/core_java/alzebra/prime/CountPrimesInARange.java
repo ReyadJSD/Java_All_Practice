@@ -14,8 +14,10 @@ public class CountPrimesInARange {
         if(startingPoint > endingPoint){
             System.out.println("Starting point must bigger than ending point.");
         }else {
+            int sumPrime=0;
             for(int i = startingPoint; i <= endingPoint; i++){
                 if (isPrime(i)){
+                    sumPrime += i;
                     primeFound = true;
                     System.out.print(i + ", ");
                     count++;
@@ -23,6 +25,7 @@ public class CountPrimesInARange {
             }
             System.out.println();
             System.out.println("Total number of prime in this range is: "+count);
+            System.out.println("Summation of the primes in the range: "+sumPrime);
             if(!primeFound){
                 System.out.println("No prime numbers found in the given range.");
             }
