@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05370d86-debd-4b85-9197-7346f0f61f2d" name="Changes" comment="">
+    <list default="true" id="05370d86-debd-4b85-9197-7346f0f61f2d" name="Changes" comment="&quot;4/3/24&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ClassForPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/arrays/singleArray/BubbleSortAsc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/arrays/singleArray/BubbleSortDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/arrays/singleArray/CreateArrayFromPromptThenSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/arrays/singleArray/FindOddEvenFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/arrays/singleArray/FindOddEvenListFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/arrays/singleArray/SumOfArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/extraProblem/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/games/GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/core_java/games/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/arrayes/ArraySizeFromUserAndPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/hackerRanks/introductions/arrayes/what is array" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/fibonacci/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/CountPrimesInARange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/core_java/alzebra/prime/CountPrimesInARange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +50,33 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArraySizeFromUserAndPrint.executor": "Run",
+    "Application.BubbleShortAsc.executor": "Run",
+    "Application.BubbleSortDesc.executor": "Run",
     "Application.CalcFactorialIterative.executor": "Run",
     "Application.CalcFactorialRecursive.executor": "Debug",
     "Application.CheckOddEven.executor": "Run",
     "Application.CheckOddEven2ndWay.executor": "Run",
+    "Application.ClassForPractice.executor": "Run",
     "Application.CountPrimesInARange.executor": "Run",
+    "Application.CreateArrayFromPromptThenSort.executor": "Run",
     "Application.CurrencyFormatter.executor": "Run",
     "Application.DateTime.executor": "Run",
     "Application.Factor.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.FibonacciSeriesRecursive.executor": "Run",
     "Application.FileNotFound.executor": "Run",
+    "Application.FindOddEvenFromArray.executor": "Run",
+    "Application.FindOddEvenListFromArray.executor": "Run",
+    "Application.GuessingGame.executor": "Run",
     "Application.IntToString.executor": "Run",
     "Application.PrimeCheck.executor": "Run",
     "Application.PrimesInARange.executor": "Run",
     "Application.StorePrimesInList.executor": "Run",
     "Application.StringToken.executor": "Run",
     "Application.SubstringChallenge.executor": "Run",
+    "Application.SumOfArrayElement.executor": "Run",
+    "Application.TicTacToe.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -75,13 +97,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CountPrimesInARange">
-    <configuration name="CountPrimesInARange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.core_java.alzebra.prime.CountPrimesInARange" />
+  <component name="RunManager" selected="Application.FindOddEvenListFromArray">
+    <configuration name="CalcFactorialIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.core_java.alzebra.factorial.CalcFactorialIterative" />
       <module name="JavaAllPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.core_java.alzebra.prime.*" />
+          <option name="PATTERN" value="main.core_java.alzebra.factorial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.CurrencyFormatter" />
+    <configuration name="ClassForPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.ClassForPractice" />
       <module name="JavaAllPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.core_java.alzebra.fibonacci.FibonacciSeries" />
+    <configuration name="FindOddEvenFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.core_java.arrays.singleArray.FindOddEvenFromArray" />
       <module name="JavaAllPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.core_java.alzebra.fibonacci.*" />
+          <option name="PATTERN" value="main.core_java.arrays.singleArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.StringToken" />
+    <configuration name="FindOddEvenListFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.core_java.arrays.singleArray.FindOddEvenListFromArray" />
       <module name="JavaAllPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="PATTERN" value="main.core_java.arrays.singleArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstringChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.hackerRanks.introductions.SubstringChallenge" />
+    <configuration name="SumOfArrayElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.core_java.arrays.singleArray.SumOfArrayElement" />
       <module name="JavaAllPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.hackerRanks.introductions.*" />
+          <option name="PATTERN" value="main.core_java.arrays.singleArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountPrimesInARange" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.SubstringChallenge" />
-        <item itemvalue="Application.StringToken" />
-        <item itemvalue="Application.CurrencyFormatter" />
+        <item itemvalue="Application.FindOddEvenListFromArray" />
+        <item itemvalue="Application.FindOddEvenFromArray" />
+        <item itemvalue="Application.ClassForPractice" />
+        <item itemvalue="Application.CalcFactorialIterative" />
+        <item itemvalue="Application.SumOfArrayElement" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +200,23 @@
       <workItem from="1711049243335" duration="1409000" />
       <workItem from="1711122516532" duration="3522000" />
       <workItem from="1711210743869" duration="2086000" />
+      <workItem from="1712083658758" duration="932000" />
+      <workItem from="1712159905070" duration="704000" />
+      <workItem from="1713201665884" duration="551000" />
+      <workItem from="1715356855826" duration="1752000" />
+      <workItem from="1715437491936" duration="1024000" />
+      <workItem from="1716825368062" duration="9991000" />
+      <workItem from="1716912273338" duration="5792000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;4/3/24&quot;">
+      <option name="closed" value="true" />
+      <created>1712083977230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712083977230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +224,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;4/3/24&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;4/3/24&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
